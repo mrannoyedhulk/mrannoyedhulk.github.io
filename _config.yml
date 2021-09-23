@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 markdown:         kramdown
 highlighter:      pygments
@@ -9,7 +10,7 @@ permalink:        pretty
 title:            Hyde
 tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://mrannoyedhulk.github.io
+url:              https://mrannoyedhulk.github.io
 baseurl:          /
 
 author:
@@ -28,3 +29,6 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - redcarpet
+=======
+theme: jekyll-theme-minimal
+>>>>>>> b6f9365546ce40afbfad148eb16ab16ed15bc377
