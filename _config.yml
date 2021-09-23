@@ -30,5 +30,5 @@ plugins:
   - jekyll-gist
   - redcarpet
 =======
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 >>>>>>> b6f9365546ce40afbfad148eb16ab16ed15bc377
