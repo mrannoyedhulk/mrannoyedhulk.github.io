@@ -12,7 +12,7 @@ menu_pages:
   icon_name: fas fa-home
   category: home
 
-- title: Category 1
+- title: POC Writeups
   url: /category-1.html
   show_on_home: True
   image_url: assets/img/category-1.jpg
@@ -21,7 +21,7 @@ menu_pages:
   tooltip: This is category 1
   description: Category 1 description, which is written in menu.yml file under :description property
 
-- title: Category 2
+- title: CTF Walkthrough
   url: /category-2.html
   show_on_home: True
   image_url: assets/img/category-2.jpg
